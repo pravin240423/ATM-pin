@@ -1,3 +1,6 @@
+// Name - Pravin dattahari shinde //
+// PRN - 250303311378UD017 //
+
 #include <stdio.h>
 int main() {
     int password = 1234,h,i,c=0;
